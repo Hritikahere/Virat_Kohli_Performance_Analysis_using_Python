@@ -17,7 +17,7 @@ Analyzing a player’s performance is one of the use cases of Data Science in sp
 
 ![Screenshot (347)](https://github.com/Hritikahere/Virat_Kohli_Performance_Analysis_using_Python/assets/118553851/5beaba6a-c08b-42e5-92ea-91035b6039b6)
 
-![Screenshot (347)](https://github.com/Hritikahere/Virat_Kohli_Performance_Analysis_using_Python/assets/118553851/70143c9b-58fc-4c25-a919-b53584578629)
+![Screenshot (348)](https://github.com/Hritikahere/Virat_Kohli_Performance_Analysis_using_Python/assets/118553851/2285c202-ddb8-49d5-b9fe-e29b042c0316)
 
 ![Screenshot (349)](https://github.com/Hritikahere/Virat_Kohli_Performance_Analysis_using_Python/assets/118553851/53315a9b-1aaa-46c7-8917-76664aba8387)
 
